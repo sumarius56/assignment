@@ -12,7 +12,7 @@ const Select = () => {
           <Link to="/cart">CART</Link>
         </div>
       </div>
-      <p className=" text-xl text-green-400 mt-5 font-bold bg-black rounded-full py-2  animate-bounce text-center">
+      <p className="  text-green-400 mt-5 font-bold bg-black rounded-full py-2  animate-bounce text-center">
         Hi , I have completed the assignment, please choose a page !! Please
         choose phone in responsive mode, as you requested it for phone!!
       </p>
